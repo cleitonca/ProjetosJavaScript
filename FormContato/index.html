@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <header>
+        <title>Projeto Simples com HTML5,CSS3 e ECMAScript6</title>
+
+        <meta charset="utf-8" />
+
+        <link href="css/estilos.css" rel="stylesheet" media="all" />
+        <script src="js/javascript.js"> </script> 
+
+    </header>
+    <body>
+
+        <form name="meu_form">
+
+            <h1>Entre em contato!</h1>
+
+            <p class="nome">
+
+                <label for="nome">Nome</label> 
+                <input type="name" id="nomeId" placeholder="Digite aqui seu nome" required="required" name="nome" />
+
+            </p>
+
+            <p class="fone">
+
+                <label for="fone">Telefone</label>
+                <input type="tel" id="telId" placeholder="(XX) XXXXX-XXXX" name="fone" />
+
+            </p>
+
+            <p>
+                <label for="email">Email</label>
+                <input type="email" id="emailId" placeholder="fulano@mail.com" name="email" />
+            </p>
+
+            <p>
+                <textarea placeholder="Escreva aqui sua mensagem"></textarea>
+            </p>
+
+            <p class="submit">
+                <input type="submit" onclick="Enviar();" value="Enviar" />
+            </p>
+
+
+        </form>
+
+
+    </body>
+
+
+</html>
