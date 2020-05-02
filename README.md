@@ -8,5 +8,14 @@ O projeto consiste em criar um formulário utilizando a linguagem de marcação 
 
 <h2> MenuPopupCustomizado </h2>
 
+Copiar:
+
 ![image](https://user-images.githubusercontent.com/6372185/80865595-e9792080-8c60-11ea-92e1-8bb5c7da4ecb.png)
+
+Colar:
+
+![image](https://user-images.githubusercontent.com/6372185/80865678-542a5c00-8c61-11ea-96ee-46e0c8f8be1a.png)
+
+Recortar:
+
 
