@@ -18,4 +18,6 @@ Colar:
 
 Recortar:
 
+![image](https://user-images.githubusercontent.com/6372185/80865720-9784ca80-8c61-11ea-9ab6-41754260d74d.png)
+
 
